@@ -1,0 +1,12 @@
+67f9db626d12f3ba5f06735178a39296 *DESCRIPTION
+b273eba0447fcac53b5fbe9ce8cf8fae *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+8c3cf7afa28d4361f43f87fb7a22a088 *R/clean.R
+305c363cfe6992a3ab0109bea175642f *R/format.R
+b08d1bae6e980b83abe3f28364df2b56 *R/validate.R
+e4d97042ebd8f4c8f95595be7968d2ea *man/calculate_dv.Rd
+1f9497ec0cdde41e93d06b7a1a72bff2 *man/clear_rut.Rd
+425f217182fe9906cf9424d17d0171ee *man/rut_complete.Rd
+4a8f5c55e81c88fb201b5325cc3875c8 *man/rut_hyphen.Rd
+17b87c6583d779df69238a73c1bd2493 *man/rut_simple.Rd
+2c40f74e15aff1914c81c65dd49d5633 *man/validate_rut.Rd
